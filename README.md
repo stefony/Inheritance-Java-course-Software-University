@@ -1,4 +1,4 @@
-# Inheritance-Java-course-Software-University
+# Inheritance-Java OOP-course-Software-University
 Courses from my education Java OOP in @SoftUni
 exercises: Inheritance - Object-Oriented-Programming
 01.Person 
